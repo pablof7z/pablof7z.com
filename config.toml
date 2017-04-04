@@ -1,0 +1,27 @@
+baseurl = "https://pablof7z.com"
+languageCode = "en"
+title = "pablof7z.com"
+theme = "hemingway2"
+copyright = ""
+disqusShortname = "shortname"
+googleAnalytics = ""
+description = "Your personal description"
+keywords = ["keyword1", "keyword2"]
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://twitter.com/pablof7z"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
